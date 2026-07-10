@@ -1,8 +1,8 @@
 {
   "channel": "beta",
   "builds": {},
-  "min_supported": "9.9.9",
+  "min_supported": "0.0.0",
   "hard_expiry": "",
-  "suspended_message": "The Media Search beta is paused for now. Thanks so much for testing! Founding early access stays open for the next 5 days, grab your spot below.",
-  "buy_url": "https://hoffmediadesign.com"
+  "suspended_message": "The Media Search beta has wrapped, thanks for testing!",
+  "buy_url": ""
 }
