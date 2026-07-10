@@ -1,6 +1,6 @@
 {
-  "id": "2026-07-09-v1.0.3",
-  "title": "Media Search 1.0.3 is out",
-  "body": "This is the last update you install by hand. From here on, updates install themselves with one click. Click to grab it.",
-  "url": "https://github.com/caleb906/media-search-downloads/releases/latest/download/MediaSearch-Mac.dmg"
+  "id": "2026-07-10-v1.0.5",
+  "title": "Media Search 1.0.5 — the stable one",
+  "body": "Fixes the update crash for good, and updates now install themselves on both platforms. Click Update now.",
+  "url": ""
 }
